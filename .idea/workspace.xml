@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="Added second problem from Introduction to CSS LAB">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.css" afterPath="$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.css" />
       <change beforePath="$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.zip" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -109,7 +108,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="76" />
     <option name="y" value="140" />
     <option name="width" value="504" />
@@ -238,7 +237,7 @@
       <workItem from="1515416896919" duration="3016000" />
       <workItem from="1515432457447" duration="8223000" />
       <workItem from="1515507367147" duration="9324000" />
-      <workItem from="1515560830133" duration="17581000" />
+      <workItem from="1515560830133" duration="17633000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -317,14 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515572078332</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added CSS in depth LAB">
+      <created>1515586696591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1515586696591</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75521000" />
+    <option name="totallyTimeSpent" value="75573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19399707" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -364,7 +370,8 @@
     <MESSAGE value="added &quot;Create header&quot; HTML Structure EX" />
     <MESSAGE value="Added first problem from Introduction to CSS LAB" />
     <MESSAGE value="Added second problem from Introduction to CSS LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added second problem from Introduction to CSS LAB" />
+    <MESSAGE value="Added CSS in depth LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added CSS in depth LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
