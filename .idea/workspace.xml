@@ -15,7 +15,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ancient-architecture.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ancient-architecture.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,6 +90,7 @@
         <option value="$PROJECT_DIR$/_04_HTML_StructureEX/P07_Table/table.html" />
         <option value="$PROJECT_DIR$/_04_HTML_StructureEX/P07_Table/table.css" />
         <option value="$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P01_PhotoShootEffect/photo-shoot-effect.css" />
+        <option value="$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.css" />
       </list>
     </option>
   </component>
@@ -85,10 +107,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="613" />
-    <option name="y" value="33" />
-    <option name="width" value="657" />
-    <option name="height" value="372" />
+    <option name="x" value="831" />
+    <option name="y" value="154" />
+    <option name="width" value="504" />
+    <option name="height" value="543" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -150,14 +172,14 @@
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
               <item name="_05_IntroductionToCSS_LAB" type="462c0819:PsiDirectoryNode" />
-              <item name="P01_PhotoShootEffect" type="462c0819:PsiDirectoryNode" />
+              <item name="P02_AncientArchitecture" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +222,8 @@
       <workItem from="1515344835019" duration="15251000" />
       <workItem from="1515416896919" duration="3016000" />
       <workItem from="1515432457447" duration="8223000" />
-      <workItem from="1515507367147" duration="9140000" />
+      <workItem from="1515507367147" duration="9324000" />
+      <workItem from="1515560830133" duration="7124000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -265,16 +288,24 @@
       <option name="project" value="LOCAL" />
       <updated>1515373235842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added first problem from Introduction to CSS LAB">
+      <created>1515520701188</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1515520701188</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57756000" />
+    <option name="totallyTimeSpent" value="65064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22401172" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2818448" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -309,27 +340,14 @@
     <MESSAGE value="added all of Lab: HTML Structure" />
     <MESSAGE value="added first exercise from HTML Structure EX" />
     <MESSAGE value="added &quot;Create header&quot; HTML Structure EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="added &quot;Create header&quot; HTML Structure EX" />
+    <MESSAGE value="Added first problem from Introduction to CSS LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first problem from Introduction to CSS LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_02_OverviewEX/P04_RunnersHome/runners-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_OverviewEX/P04_RunnersHome/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_HTM_CSS_Overview/P04_ToDoList/to-do-list.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -605,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,14 +630,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P01_PhotoShootEffect/photo-shoot-effect.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="101" column="26" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_IntroductionToCSS_LAB/P02_AncientArchitecture/ancient-architecture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
