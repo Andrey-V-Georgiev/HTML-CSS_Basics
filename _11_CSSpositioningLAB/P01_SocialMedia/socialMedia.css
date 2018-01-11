@@ -4,7 +4,7 @@
 }
 
 body {
-    background: #333333;
+    background:rgb(41, 41, 41);
 }
 
 article {
@@ -12,6 +12,9 @@ article {
     margin: 15px;
     vertical-align: top;
 
+}
+a {
+    text-decoration: none;
 }
 
 h2 {

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css" afterPath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css" />
+      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html" afterPath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="socialMedia.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html">
+      <file leaf-file-name="drop-down-menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="420">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socialMedia.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css">
+      <file leaf-file-name="drop-down-menu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -95,8 +97,11 @@
         <option value="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/briard-history.css" />
         <option value="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/briard-history.html" />
         <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/SocialMedia.html" />
-        <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html" />
+        <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/dropDownMenu.html" />
+        <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.html" />
+        <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.css" />
         <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css" />
+        <option value="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html" />
       </list>
     </option>
   </component>
@@ -113,10 +118,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
-    <option name="y" value="107" />
-    <option name="width" value="476" />
-    <option name="height" value="543" />
+    <option name="x" value="2" />
+    <option name="y" value="46" />
+    <option name="width" value="521" />
+    <option name="height" value="670" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -162,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,27 +184,19 @@
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
               <item name="_11_CSSpositioningLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="P01_SocialMedia" type="462c0819:PsiDirectoryNode" />
+              <item name="P02_DropDown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
               <item name="_11_CSSpositioningLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="P01_SocialMedia" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_CSSpositioningLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="P01_SocialMedia" type="462c0819:PsiDirectoryNode" />
+              <item name="P02_DropDown" type="462c0819:PsiDirectoryNode" />
               <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -245,7 +243,8 @@
       <workItem from="1515507367147" duration="9324000" />
       <workItem from="1515560830133" duration="23365000" />
       <workItem from="1515595109482" duration="2081000" />
-      <workItem from="1515682597870" duration="12084000" />
+      <workItem from="1515682597870" duration="13192000" />
+      <workItem from="1515701578339" duration="6592000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -352,17 +351,24 @@
       <option name="project" value="LOCAL" />
       <updated>1515684635754</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added css positioning lab first exercise">
+      <created>1515698387810</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1515698387810</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95470000" />
+    <option name="totallyTimeSpent" value="103170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2715959" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510981" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -403,48 +409,14 @@
     <MESSAGE value="add plan-page format boxes" />
     <MESSAGE value="Added css formatting lab - Briard 100%" />
     <MESSAGE value="Added css formatting lab - Briard &lt;span&gt; update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added css formatting lab - Briard &lt;span&gt; update" />
+    <MESSAGE value="Added css positioning lab first exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added css positioning lab first exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_04_HTML_StructureEX/P01_SimpleNavigationBar/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -643,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="16" column="80" lean-forward="true" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-609">
           <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,18 +664,55 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/screenshots/drop-down-menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="87" column="16" lean-forward="false" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="189">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding />
         </state>
       </provider>
