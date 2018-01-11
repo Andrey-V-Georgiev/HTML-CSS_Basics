@@ -5,13 +5,15 @@ html {
 }
 
 main {
+    margin: 0 auto;
     width: 800px;
     padding: 20px;
 }
 
 img {
     width: 200px;
-    float: Left;
+    height: 300px;
+    float: left;
     margin-right: 20px;
 }
 
@@ -22,6 +24,7 @@ h1, h2, h3, a {
     text-align: center;
     font-size: 2.1rem;
     text-decoration: none;
+    font-weight: lighter;
 }
 
 h1 {
@@ -37,6 +40,7 @@ h2 {
     font-size: 2.3rem;
     text-transform: capitalize;
     letter-spacing: 0.3rem;
+
 }
 
 h2 span {
@@ -57,11 +61,15 @@ article p {
 
 
 article p:first-of-type:first-letter {
-    text-style: italic;
+    font-style: italic;
     text-align: right;
     font-size: 3.8rem;
     font-family: 'Lobster', cursive;
     font-weight: bold;
     text-transform: uppercase ;
+}
+
+footer {
+    text-align: right;
 }
 
