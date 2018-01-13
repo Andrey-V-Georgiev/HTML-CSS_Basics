@@ -15,7 +15,7 @@ body > header {
     height: 735px;
 }
 
-nav, ul {
+nav ul {
     height: 60px;
     list-style: none;
 }
@@ -89,7 +89,7 @@ nav ul.nav-primary {
     text-transform: uppercase;
 }
 
-.consulting-rev a:hover, .consulting-rev a:hover.fa-chevron-right {
+.consulting-rev a:hover , .consulting-rev a:hover.fa-chevron-right , .consulting-rev a:hover i{
     background: #c79d63;
     color: #090821;
     cursor: pointer;
