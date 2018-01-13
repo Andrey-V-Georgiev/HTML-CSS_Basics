@@ -291,6 +291,7 @@ footer {
 .partners ul {
     display: flex;
     justify-content: center;
+    list-style-type: none;
 }
 
 .partners img {
@@ -319,6 +320,7 @@ footer h2 {
     display: flex;
     justify-content: center;
     width: 153px;
+
 }
 
 .socials li {
@@ -335,6 +337,11 @@ footer h2 {
     background: rgb(131, 131, 143);
     color: #090821;
 }
+
+ul.info, ul.socials, div.instagram-widget>ul {
+    list-style-type: none;
+}
+
 
 .extra-links ul {
     display: flex;
