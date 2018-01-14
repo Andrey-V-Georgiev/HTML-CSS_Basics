@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="added P2">
+    <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,7 +15,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="login-form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-form.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_OverviewEX/P05_BookStory/book-story.css" />
-        <option value="$PROJECT_DIR$/_02_OverviewEX/P05_BookStory/book-story.html" />
         <option value="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.css" />
         <option value="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.html" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/page-content.html" />
@@ -83,6 +102,8 @@
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/login-form.css" />
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/login-form.html" />
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/login-form.css" />
+        <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.html" />
+        <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.css" />
       </list>
     </option>
   </component>
@@ -98,10 +119,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="782" />
-    <option name="y" value="72" />
-    <option name="width" value="585" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="257" />
+    <option name="y" value="40" />
+    <option name="width" value="1011" />
     <option name="height" value="670" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -148,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,14 +187,19 @@
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
               <item name="_15_HTML_FormsLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="P02_LoginForm-font-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_LoginForm-BGImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="_15_HTML_FormsLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_LoginForm-BGImages" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,6 +214,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\HTML&amp;CSS_Basics\_15_HTML_FormsLAB\P03_LoginForm-BGImages" />
       <recent name="C:\Projects\HTML&amp;CSS_Basics\_15_HTML_FormsLAB\P02_LoginForm-font-awesome" />
     </key>
   </component>
@@ -234,7 +263,8 @@
       <workItem from="1515877376458" duration="10193000" />
       <workItem from="1515891865304" duration="1575000" />
       <workItem from="1515893444826" duration="15000" />
-      <workItem from="1515893517219" duration="9000" />
+      <workItem from="1515893517219" duration="97000" />
+      <workItem from="1515898441115" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -404,16 +434,24 @@
       <option name="project" value="LOCAL" />
       <updated>1515891886075</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added P2 login-form using font awesome">
+      <created>1515893597028</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1515893597028</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148697000" />
+    <option name="totallyTimeSpent" value="152666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="257" y="40" width="1011" height="670" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1566618" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1879397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -464,34 +502,14 @@
     <MESSAGE value="The main sections icons are fixed" />
     <MESSAGE value="Consulting Agency final variant" />
     <MESSAGE value="added P1 Login form images" />
-    <option name="LAST_COMMIT_MESSAGE" value="added P1 Login form images" />
+    <MESSAGE value="added P2 login-form using font awesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="added P2 login-form using font awesome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="87" column="16" lean-forward="false" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -755,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,6 +780,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/images/user.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
