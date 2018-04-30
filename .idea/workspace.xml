@@ -2,145 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P01_WelcomeToHTML/_01_welcome.html" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P01_WelcomeToHTML/_01_welcome.html" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P01_WelcomeToHTML/text.txt" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P01_WelcomeToHTML/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/apple.png" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/apple.png" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/banana.png" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/banana.png" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/fruits.html" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/fruits.html" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/kiwi.png" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/kiwi.png" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/orange.png" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/orange.png" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P02_Fruits/text.txt" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P02_Fruits/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P03_WikiPage/bear.jpg" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P03_WikiPage/bear.jpg" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P03_WikiPage/brownBear.html" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P03_WikiPage/brownBear.html" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P03_WikiPage/text.txt" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P03_WikiPage/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P04_ToDoList/text.txt" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P04_ToDoList/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P04_ToDoList/to-do-list.css" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P04_ToDoList/to-do-list.css" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P04_ToDoList/to-do-list.html" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P04_ToDoList/to-do-list.html" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P05_HTMLLists/HTMLLists.html" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P05_HTMLLists/HTMLLists.html" />
-      <change beforePath="$PROJECT_DIR$/_01_HTM_CSS_Overview/P05_HTMLLists/text.txt" afterPath="$PROJECT_DIR$/_01_HTM&amp;CSS_Overview_LAB/P05_HTMLLists/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P01_MyFirstPage/myFirstPage.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P01_MyFirstPage/myFirstPage.html" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P01_MyFirstPage/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P01_MyFirstPage/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P02_DefinitionLists/definitionList.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P02_DefinitionLists/definitionList.html" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P02_DefinitionLists/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P02_DefinitionLists/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P03_ReversedList/reverced-list.css" afterPath="$PROJECT_DIR$/_02_Overview_EX/P03_ReversedList/reverced-list.css" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P03_ReversedList/reverced-rist.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P03_ReversedList/reverced-rist.html" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P03_ReversedList/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P03_ReversedList/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P04_RunnersHome/runners-home.css" afterPath="$PROJECT_DIR$/_02_Overview_EX/P04_RunnersHome/runners-home.css" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P04_RunnersHome/runners-home.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P04_RunnersHome/runners-home.html" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P04_RunnersHome/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P04_RunnersHome/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P05_BookStory/book-story.css" afterPath="$PROJECT_DIR$/_02_Overview_EX/P05_BookStory/book-story.css" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P05_BookStory/book-story.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P05_BookStory/book-story.html" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P05_BookStory/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P05_BookStory/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/arena-pantanal.jpg" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/arena-pantanal.jpg" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/estadio-mineirao.jpg" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/estadio-mineirao.jpg" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/estadio-nacional.jpg" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/estadio-nacional.jpg" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/text.txt" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.css" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/world-cup-news.css" />
-      <change beforePath="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.html" afterPath="$PROJECT_DIR$/_02_Overview_EX/P06_WorldCupNews/world-cup-news.html" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.css" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P01_NavigationBar/nav-bar.css" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.html" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P01_NavigationBar/nav-bar.html" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/text.txt" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P01_NavigationBar/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/page-content.css" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P02_PageContent/page-content.css" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/page-content.html" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P02_PageContent/page-content.html" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/text.txt" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P02_PageContent/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.css" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P03_SimpleWebsite/simple-website.css" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.html" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P03_SimpleWebsite/simple-website.html" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/text.txt" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P03_SimpleWebsite/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/exam-results.css" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P04_ExamResults/exam-results.css" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/exam-results.html" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P04_ExamResults/exam-results.html" />
-      <change beforePath="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/text.txt" afterPath="$PROJECT_DIR$/_03_HTML_Structure_LAB/P04_ExamResults/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P01_SimpleNavigationBar/simple-nav-bar.css" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P01_SimpleNavigationBar/simple-nav-bar.css" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P01_SimpleNavigationBar/simple-nav-bar.html" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P01_SimpleNavigationBar/simple-nav-bar.html" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P01_SimpleNavigationBar/text.txt" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P01_SimpleNavigationBar/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P02_SimpleArticle/cat.jpg" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P02_SimpleArticle/cat.jpg" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P02_SimpleArticle/simple-article.css" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P02_SimpleArticle/simple-article.css" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P02_SimpleArticle/simple-article.html" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P02_SimpleArticle/simple-article.html" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P02_SimpleArticle/text.txt" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P02_SimpleArticle/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P03_CreateHeader/background-image.jpg" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P03_CreateHeader/background-image.jpg" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P03_CreateHeader/create-header.css" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P03_CreateHeader/create-header.css" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P03_CreateHeader/create-header.html" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P03_CreateHeader/create-header.html" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P03_CreateHeader/text.txt" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P03_CreateHeader/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P04_CreateContent/create-content.css" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P04_CreateContent/create-content.css" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P04_CreateContent/create-content.html" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P04_CreateContent/create-content.html" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P04_CreateContent/innovation-cloud.png" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P04_CreateContent/innovation-cloud.png" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P04_CreateContent/text.txt" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P04_CreateContent/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P05_InnovationCloud/background-image.jpg" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P05_InnovationCloud/background-image.jpg" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P05_InnovationCloud/innovation-cloud.css" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P05_InnovationCloud/innovation-cloud.css" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P05_InnovationCloud/innovation-cloud.html" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P05_InnovationCloud/innovation-cloud.html" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P05_InnovationCloud/innovation-cloud.png" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P05_InnovationCloud/innovation-cloud.png" />
-      <change beforePath="$PROJECT_DIR$/_04_HTML_StructureEX/P05_InnovationCloud/text.txt" afterPath="$PROJECT_DIR$/_04_HTML_Structure_EX/P05_InnovationCloud/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_07_CSSinDepthLAB/P01_PlanPage/images/plan-page.jpg" afterPath="$PROJECT_DIR$/_07_CSSinDepth_LAB/P01_PlanPage/images/plan-page.jpg" />
-      <change beforePath="$PROJECT_DIR$/_07_CSSinDepthLAB/P01_PlanPage/plan-page.css" afterPath="$PROJECT_DIR$/_07_CSSinDepth_LAB/P01_PlanPage/plan-page.css" />
-      <change beforePath="$PROJECT_DIR$/_07_CSSinDepthLAB/P01_PlanPage/plan-page.html" afterPath="$PROJECT_DIR$/_07_CSSinDepth_LAB/P01_PlanPage/plan-page.html" />
-      <change beforePath="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/briard-history.css" afterPath="$PROJECT_DIR$/_09_CSSformatting_LAB/P01_Briard/briard-history.css" />
-      <change beforePath="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/briard-history.html" afterPath="$PROJECT_DIR$/_09_CSSformatting_LAB/P01_Briard/briard-history.html" />
-      <change beforePath="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/images/briard.jpg" afterPath="$PROJECT_DIR$/_09_CSSformatting_LAB/P01_Briard/images/briard.jpg" />
-      <change beforePath="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/screenshots/briard-history.png" afterPath="$PROJECT_DIR$/_09_CSSformatting_LAB/P01_Briard/screenshots/briard-history.png" />
-      <change beforePath="$PROJECT_DIR$/_09_CSSformattingLAB/P01_Briard/text.txt" afterPath="$PROJECT_DIR$/_09_CSSformatting_LAB/P01_Briard/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/images/social.jpg" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/images/social.jpg" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/screenshots/social-media-hover.png" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/screenshots/social-media-hover.png" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/screenshots/social-media.png" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/screenshots/social-media.png" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.css" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/socialMedia.css" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/socialMedia.html" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/socialMedia.html" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P01_SocialMedia/text.txt" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.css" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/drop-down-menu.css" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/drop-down-menu.html" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/drop-down-menu.html" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/screenshots/drop-down-menu.png" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/screenshots/drop-down-menu.png" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P02_DropDown/text.txt" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P03_FloatingElements/floating-elements.css" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/floating-elements.css" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P03_FloatingElements/floating-elements.html" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/floating-elements.html" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P03_FloatingElements/screenshots/floating-elements.png" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/screenshots/floating-elements.png" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P03_FloatingElements/text.txt" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P04_ClearFloating/clear-floating.css" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P04_ClearFloating/clear-floating.css" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P04_ClearFloating/clear-floating.html" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P04_ClearFloating/clear-floating.html" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P04_ClearFloating/screenshots/clear-floating.png" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P04_ClearFloating/screenshots/clear-floating.png" />
-      <change beforePath="$PROJECT_DIR$/_11_CSSpositioningLAB/P04_ClearFloating/text.txt" afterPath="$PROJECT_DIR$/_11_CSSpositioning_LAB/P04_ClearFloating/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/agency.css" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/agency.css" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/agency.html" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/agency.html" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/Layer-759_02.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/Layer-759_02.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/background-choose-us.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/background-choose-us.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/consulting-woman.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/consulting-woman.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(1).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(1).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(2).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(2).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(3).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(3).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(4).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(4).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(5).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(5).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/footer-widget(6).jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(6).jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-Edtech.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-Edtech.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-KPhone.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-KPhone.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-TVC.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-TVC.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-Volker-Stevin.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-Volker-Stevin.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-arcade.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-arcade.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/partner-fast-brothers.png" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-fast-brothers.png" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/images/steel-bg.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/steel-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/screenshots/agency.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/screenshots/agency1-hover.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency1-hover.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/screenshots/agency1.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency1.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/screenshots/agency2-hover.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency2-hover.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/screenshots/agency2.jpg" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency2.jpg" />
-      <change beforePath="$PROJECT_DIR$/_13_CreatingLendingPagesLAB/P01_ConsultingAgency/text.txt" afterPath="$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/images/image-photo.jpg" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/images/image-photo.jpg" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/images/pass.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/images/pass.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/images/triangle.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/images/triangle.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/images/user.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/images/user.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/login-form.css" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/login-form.css" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/login-form.html" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/login-form.html" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P01_LoginFormImages/text.txt" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P01_LoginFormImages/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/images/image-photo.jpg" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P02_LoginForm-font-awesome/images/image-photo.jpg" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/images/triangle.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P02_LoginForm-font-awesome/images/triangle.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/login-form.css" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P02_LoginForm-font-awesome/login-form.css" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/login-form.html" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P02_LoginForm-font-awesome/login-form.html" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/text.txt" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P02_LoginForm-font-awesome/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/images/image-photo.jpg" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/images/image-photo.jpg" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/images/pass.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/images/pass.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/images/triangle.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/images/triangle.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/images/user.png" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/images/user.png" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.css" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/login-form.css" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.html" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/login-form.html" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/text.txt" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P03_LoginForm-BGImages/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P04_ContactForm/text.txt" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P04_ContactForm/text.txt" />
-      <change beforePath="$PROJECT_DIR$/_15_HTML_FormsLAB/P05_ArrangingTheWidths/text.txt" afterPath="$PROJECT_DIR$/_15_HTML_Forms_LAB/P05_ArrangingTheWidths/text.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -153,7 +16,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="the-future-of-cars.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="the-future-of-cars.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-147">
+              <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,6 +47,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.css" />
-        <option value="$PROJECT_DIR$/_02_OverviewEX/P06_WorldCupNews/world-cup-news.html" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/page-content.html" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P02_PageContent/page-content.css" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.css" />
@@ -221,6 +108,8 @@
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P02_LoginForm-font-awesome/login-form.css" />
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.html" />
         <option value="$PROJECT_DIR$/_15_HTML_FormsLAB/P03_LoginForm-BGImages/login-form.css" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.html" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.css" />
       </list>
     </option>
   </component>
@@ -237,10 +126,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="257" />
-    <option name="y" value="40" />
-    <option name="width" value="1011" />
-    <option name="height" value="670" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -295,6 +183,17 @@
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_IntroductionToCSS_EX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_IntroductionToCSS_EX" type="462c0819:PsiDirectoryNode" />
+              <item name="P01_TheFutureOfCars" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -312,6 +211,9 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\HTML&amp;CSS_Basics\_06_IntroductionToCSS_EX" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\HTML&amp;CSS_Basics\_15_HTML_FormsLAB\P03_LoginForm-BGImages" />
       <recent name="C:\Projects\HTML&amp;CSS_Basics\_15_HTML_FormsLAB\P02_LoginForm-font-awesome" />
@@ -365,7 +267,8 @@
       <workItem from="1515893517219" duration="97000" />
       <workItem from="1515898441115" duration="4604000" />
       <workItem from="1515954996427" duration="601000" />
-      <workItem from="1524983851967" duration="770000" />
+      <workItem from="1524983851967" duration="2401000" />
+      <workItem from="1525086464982" duration="14184000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -549,16 +452,24 @@
       <option name="project" value="LOCAL" />
       <updated>1515904306608</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update names of folders">
+      <created>1524984680002</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1524984680002</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154760000" />
+    <option name="totallyTimeSpent" value="170575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22825278" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18587361" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -586,7 +497,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 1,2,3,4 exercise" />
     <MESSAGE value="added all exercises of overviewEX" />
     <MESSAGE value="added &quot;Navigation bar&quot; from &quot;HTML structure&quot; LAB" />
     <MESSAGE value="added first three exercises form HTML structure LAB" />
@@ -611,53 +521,14 @@
     <MESSAGE value="added P1 Login form images" />
     <MESSAGE value="added P2 login-form using font awesome" />
     <MESSAGE value="added P3 same problem but icons are images on background by css" />
-    <option name="LAST_COMMIT_MESSAGE" value="added P3 same problem but icons are images on background by css" />
+    <MESSAGE value="Update names of folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update names of folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P01_SocialMedia/socialMedia.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/drop-down-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P02_DropDown/drop-down-menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/screenshots/floating-elements.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/floating-elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_11_CSSpositioning_LAB/P03_FloatingElements/floating-elements.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -907,6 +778,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/images/flyingcars1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/images/flyingcars2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/images/flyingcars3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/images/car-future.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
