@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.html" afterPath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -268,7 +267,7 @@
       <workItem from="1515898441115" duration="4604000" />
       <workItem from="1515954996427" duration="601000" />
       <workItem from="1524983851967" duration="2401000" />
-      <workItem from="1525086464982" duration="25930000" />
+      <workItem from="1525086464982" duration="25947000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -466,11 +465,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525115147982</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added P2 / _06_IntroductionToCSS_EX">
+      <created>1525127076490</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1525127076490</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182321000" />
+    <option name="totallyTimeSpent" value="182338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -504,7 +510,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added &quot;Navigation bar&quot; from &quot;HTML structure&quot; LAB" />
     <MESSAGE value="added first three exercises form HTML structure LAB" />
     <MESSAGE value="added all of Lab: HTML Structure" />
     <MESSAGE value="added first exercise from HTML Structure EX" />
@@ -529,7 +534,8 @@
     <MESSAGE value="added P3 same problem but icons are images on background by css" />
     <MESSAGE value="Update names of folders" />
     <MESSAGE value="Added P1 / _06_IntroductionToCSS_EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 / _06_IntroductionToCSS_EX" />
+    <MESSAGE value="Added P2 / _06_IntroductionToCSS_EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P2 / _06_IntroductionToCSS_EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
