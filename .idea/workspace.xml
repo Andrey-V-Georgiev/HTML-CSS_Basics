@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adb5cfc-8331-4296-bd60-be2694eea58d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/images/food-image-bg.png" afterPath="$PROJECT_DIR$/_08_CSSinDepth_EX/P01_RecipeCard/images/food-image-bg.png" />
+      <change beforePath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/recipe-card.html" afterPath="$PROJECT_DIR$/_08_CSSinDepth_EX/P01_RecipeCard/recipe-card.html" />
+      <change beforePath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P04_WebAgency/images/brand-inverted.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P04_WebAgency/web-agency.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="food-page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.html">
+      <file leaf-file-name="japanese-kitchen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="159">
+              <caret line="64" column="39" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="39" />
+              <folding>
+                <element signature="e#2071#2077#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="food-page.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.css">
+      <file leaf-file-name="japanese-kitchen.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="222">
+              <caret line="153" column="1" lean-forward="true" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -42,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -50,19 +58,20 @@
     <findStrings>
       <find>section</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.css" />
-        <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P01_NavigationBar/nav-bar.html" />
-        <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.css" />
-        <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P03_SimpleWebsite/simple-website.html" />
-        <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/text.txt" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/exam-results.css" />
         <option value="$PROJECT_DIR$/_03_HTML_StructureLAB/P04_ExamResults/exam-results.html" />
         <option value="$PROJECT_DIR$/_04_HTML_StructureEX/P01_SimpleNavigationBar/simple-nav-bar.html" />
@@ -109,6 +118,11 @@
         <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P01_TheFutureOfCars/the-future-of-cars.css" />
         <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.html" />
         <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.css" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/recipe-card.html" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/recipe-card.ts" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/recipe-card.css" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.html" />
+        <option value="$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.css" />
       </list>
     </option>
   </component>
@@ -161,12 +175,12 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
@@ -174,7 +188,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,12 +204,13 @@
               <item name="HTML&amp;CSS_Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML&amp;CSS_Basics" type="462c0819:PsiDirectoryNode" />
               <item name="_06_IntroductionToCSS_EX" type="462c0819:PsiDirectoryNode" />
-              <item name="P02_FoodPage" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_JapaneseKitchen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,10 +222,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\HTML&amp;CSS_Basics\_06_IntroductionToCSS_EX" />
+      <recent name="C:\Projects\HTML&amp;CSS_Basics\_08_CSSinDepth_EX" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\HTML&amp;CSS_Basics\_15_HTML_FormsLAB\P03_LoginForm-BGImages" />
@@ -267,7 +283,14 @@
       <workItem from="1515898441115" duration="4604000" />
       <workItem from="1515954996427" duration="601000" />
       <workItem from="1524983851967" duration="2401000" />
-      <workItem from="1525086464982" duration="25947000" />
+      <workItem from="1525086464982" duration="26070000" />
+      <workItem from="1525155596387" duration="13579000" />
+      <workItem from="1525173720234" duration="64000" />
+      <workItem from="1525173910403" duration="107000" />
+      <workItem from="1525174062698" duration="43000" />
+      <workItem from="1525174429581" duration="5251000" />
+      <workItem from="1525287744342" duration="7854000" />
+      <workItem from="1525296467774" duration="7384000" />
     </task>
     <task id="LOCAL-00001" summary="start overview EX">
       <created>1515259572444</created>
@@ -472,23 +495,30 @@
       <option name="project" value="LOCAL" />
       <updated>1525127076490</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added P2 / _06_IntroductionToCSS_EX">
+      <created>1525127091896</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1525127091896</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182338000" />
+    <option name="totallyTimeSpent" value="216743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2126394" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22156134" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -498,6 +528,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -542,61 +573,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(1).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(2).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(3).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(4).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(5).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/footer-widget(6).jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-arcade.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/images/partner-Edtech.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency2-hover.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency1-hover.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_13_CreatingLendingPages_LAB/P01_ConsultingAgency/screenshots/agency1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -780,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,22 +783,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
           <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_CSSinDepth_EX/P01_RecipeCard/images/food-image-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P04_WebAgency/images/brand-inverted.png" />
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_RecipeCard/recipe-card.ts" />
+    <entry file="file://$PROJECT_DIR$/_08_CSSinDepth_EX/P01_RecipeCard/recipe-card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/images/header-page.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/images/teriyaki.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/images/dark-wood.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_CSSinDepth_EX/P01_RecipeCard/recipe-card.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/images/bok-choi.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P02_FoodPage/food-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="64" column="39" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="39" />
+          <folding>
+            <element signature="e#2071#2077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_IntroductionToCSS_EX/P03_JapaneseKitchen/japanese-kitchen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="153" column="1" lean-forward="true" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
           <folding />
         </state>
       </provider>
